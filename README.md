@@ -1,5 +1,5 @@
 
-# Vue SSR 
+# Vue SSR
 
 ## Build Setup
 
@@ -19,6 +19,10 @@ npm run build
 npm start
 ```
 
+## Reference resources
+
+[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)
+
 ## License
 
-MIT
+[MIT](http://opensource.org/licenses/MIT)
